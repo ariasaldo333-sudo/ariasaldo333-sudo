@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🐞🔍 Apasionado QA Engineer desde México .<br><br>- 🔭 Actualmente me Certifique como QA Engineer por Tripleten 🇲🇽<br>- 📄Visita mi <a href="https://ariasaldo333-sudo.github.io/" target="_blank">portfolio</a> para conocer más sobre mis proyectos y habilidades.<br>- 📚 Estoy estudiando arduamente para especializarme en QA Testing Automation ⚙️<br>-  Me encanta descubrir nuevas formas de automatizar mi trabajo 🤖<br>- 🏂Me encanta disfrutar las cosas simples de la vida😊 </p>
+<p align="left">🐞🔍 Me encanta ser QA Engineer y la detección de Bugs  .<br><br>- 🔭 Actualmente me Certifique como QA Engineer por Tripleten 🇲🇽<br>- 📄Visita mi <a href="https://ariasaldo333-sudo.github.io/" target="_blank">portfolio</a> para conocer más sobre mis proyectos y habilidades.<br>- 📚 Estoy estudiando arduamente para especializarme en QA Testing Automation ⚙️<br>-  Me encanta descubrir nuevas formas de automatizar mi trabajo 🤖<br>- 🏂Soy una persona empatica y servicial😊 </p>
 
 ###
 
