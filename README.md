@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🐞🔍 Me encanta Diseño de pruebas, detectar bugs y reportarlos🐞🔍  .<br><br>- 🔭 Actualmente me Certifique como QA Engineer por Tripleten 🇲🇽<br>- 📄Visita mi <a href="https://ariasaldo333-sudo.github.io/" target="_blank">portfolio</a> para conocer más sobre mis proyectos y habilidades.<br>- 📚 Estoy estudiando arduamente para especializarme en QA Testing Automation ⚙️<br>-  Me encanta descubrir nuevas formas de automatizar mi trabajo 🤖<br>- 🏂Soy una persona empatica y servicial😊 </p>
+<p align="left">🐞🔍 Me encanta el Diseño de pruebas, detectar bugs y reportarlos🐞🔍  .<br><br>- 🔭 Actualmente me Certifique como QA Engineer por Tripleten 🇲🇽<br>- 📄Visita mi <a href="https://ariasaldo333-sudo.github.io/" target="_blank">portfolio</a> para conocer más sobre mis proyectos y habilidades.<br>- 📚 Estoy estudiando arduamente para especializarme en QA Testing Automation ⚙️<br>-  Me encanta descubrir nuevas formas de automatizar mi trabajo 🤖<br>- 🏂Soy una persona empatica y servicial😊 </p>
 
 ###
 
