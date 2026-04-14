@@ -1,6 +1,3 @@
-<div align="center">
-  <img width:"800" src="https://github.com/GVL0001/GVL0001/blob/main/banner_github.png"  />
-</div>
 
 ###
 
@@ -15,17 +12,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gvl0001.gvl0001&"  />
-</div>
 
 ###
 
-<h1 align="center">Hola, soy Gustavo. Encantado de conocerte 👋</h1>
+<h1 align="center">Hola, soy Aldo Arias. Encantado de conocerte 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mí :</h3>
+<h3 align="left">👩‍💻  Un poco acerca de mi :</h3>
 
 ###
 
